@@ -13,7 +13,6 @@ Este repositório contém um conjunto de ferramentas automatizadas para facilita
 - [Logs](#logs)  
 - [Estrutura de Pastas](#estrutura-de-pastas)  
 - [Autor](#autor)  
-- [Licença](#licença)
 
 ---
 
